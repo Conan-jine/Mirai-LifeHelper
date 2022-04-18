@@ -1,6 +1,6 @@
 # LifeHelper
 
-> 本插件基于[mirai](https://github.com/mamoe/mirai-console)
+> 本插件基于[mirai](https://github.com/mamoe/mirai)
 >
 > [![Release](https://img.shields.io/badge/release-1.0-pre--green)](https://img.shields.io/badge/release-1.0-pre--green)
 

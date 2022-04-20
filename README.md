@@ -27,7 +27,7 @@
 ## 安装
 
 1. 按照[mirai](https://github.com/mamoe/mirai-console)的步骤安装mirai机器人
-2. 从[发布页](https://github.com/Pmx990/Mirai-Steam-Plugin/releases/tag/v0.1)下载jar文件
+2. 从[发布页](https://github.com/Conan-jine/Mirai-LifeHelper/releases)下载jar文件
 3. 将jar文件置入mirai安装文件夹下的plugins文件夹
 4. 启动一次mirai机器人，mirai会自动生成插件数据目录(data/org.lifehelper.LifeHelper)(~~不行就两次~~)
 5. 在**data/org.lifehelper.LifeHelper**目录下创建**admin.txt**,**userData.txt**和**groupData.txt**三个文件
